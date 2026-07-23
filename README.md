@@ -9,11 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [Iamshahzad](https://imshahzad.vercel.app/)
 
-- 💬 Ask me about **Python, JavaScript, Next.js , Git, and Github.**
+- 💬 Ask me about **Python, Flask, FastApi, Flutter, JavaScript, Next.js , Git, and Github.**
 
 - 📫 How to reach me **imshahzad000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HKcPbc5kvXiDaE2oH2H7J-5OlF8IFq9r/export?format=pdf](https://docs.google.com/document/d/1HKcPbc5kvXiDaE2oH2H7J-5OlF8IFq9r/export?format=pdf)
 
 - ⚡ Fun fact **I think I am boring.**
 
