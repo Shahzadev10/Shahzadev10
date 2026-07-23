@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI and Python projects**
 
-- 👨‍💻 All of my projects are available at [shahzad.pages.dev](shahzad.pages.dev)
+- 👨‍💻 All of my projects are available at [Iamshahzad](https://imshahzad.vercel.app/)
 
 - 💬 Ask me about **Python, JavaScript, Next.js , Git, and Github.**
 
